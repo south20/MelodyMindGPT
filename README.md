@@ -1,4 +1,4 @@
-# <img src="code/southgpt.png" style="width: 5%"> South-GPT
+# <img src="code/southgpt.png" style="width: 5%"> South-MelodyMindGPT
 
 
 ## Getting Started
